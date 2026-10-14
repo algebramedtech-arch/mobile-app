@@ -1,0 +1,15 @@
+{
+  "name": "ALGEBRA MedTech Product Intelligence",
+  "short_name": "ALGEBRA",
+  "description": "Interactive anatomy, motion and orthopaedic product presentation workspace",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6f9",
+  "theme_color": "#10253f",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
